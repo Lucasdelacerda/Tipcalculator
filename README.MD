@@ -55,4 +55,4 @@ I plan to continue refining and expanding this project by adding more features, 
 Feel free to contact me through [email](lacerdalucas27@gmail.com) to discuss this project or any other opportunities. You can also find me on [LinkedIn](https://www.linkedin.com/in/lucas-lacerda-066316186/) for further details about my projects and experience.
 
 Thank you for considering my Tip Calculator project!
-# tipCalculator
+
